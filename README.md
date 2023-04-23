@@ -1,7 +1,8 @@
 ## 命令行图片压缩工具
 [tinypng API key 申请](https://tinypng.com/developers)
 
-[![python3.7](https://img.shields.io/badge/pyhotn3.7-jianzhao151-green)](https://shields.io/)
+[![python3.7](https://img.shields.io/badge/pyhotn3.7-Jianzhao520-green)](https://www.python.org/downloads/release/python-370/)
+[![click](https://img.shields.io/badge/click-Jianzhao520-green)](https://click.palletsprojects.com/en/8.1.x/)
 
 ### 使用方法
 - 指定源，输入文件默认根目录, 压缩完成后文件在 <span style="font-weight: bold;text-align:left;color:#00ff00;">./images文件中</span>
