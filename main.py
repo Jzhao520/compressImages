@@ -5,9 +5,9 @@ import tinify
 import threading
 from tqdm import tqdm
 
-# 每月免费500次
+# 每月免费500次 自己申请 自己申请 自己申请 重要的事情说三遍
 online_key_list = [
-    "C5GdKhT2D1f7Th8X1x0SZ5VGSrKVfjyc"
+    "abcdfghi"
 ]
 # 获取压缩图片的KEY
 online_key_list_iter = iter(online_key_list)
